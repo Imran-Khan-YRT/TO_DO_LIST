@@ -1,0 +1,23 @@
+{
+  "name": "to_do_list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Imran-Khan-YRT/TO_DO_LIST.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Imran-Khan-YRT/TO_DO_LIST/issues"
+  },
+  "homepage": "https://github.com/Imran-Khan-YRT/TO_DO_LIST#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
